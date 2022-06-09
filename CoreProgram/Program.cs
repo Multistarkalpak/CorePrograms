@@ -11,10 +11,11 @@ namespace CoreProgram
             //FlipCoin flip = new FlipCoin();
             //flip.Flip_coin();
 
-            LeapYear leap = new LeapYear();
-            leap.Leap_Year();
+            //LeapYear leap = new LeapYear();
+            //leap.Leap_Year();
 
-
+            Power2 power = new Power2();
+            power.Power_of_two();
         }
     }
 }
