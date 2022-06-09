@@ -20,8 +20,11 @@ namespace CoreProgram
             //Harmonic harmonic = new Harmonic();
             //harmonic.Harmonics();
 
-            Factors fac = new Factors();
-            fac.factors();
+            //Factors fac = new Factors();
+            //fac.factors();
+
+            QuotientRemainder qr = new QuotientRemainder();
+            qr.Quotient_Remainder();
         }
     }
 }
