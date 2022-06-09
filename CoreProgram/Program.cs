@@ -8,8 +8,11 @@ namespace CoreProgram
         {
 
 
-            FlipCoin flip = new FlipCoin();
-            flip.Flip_coin();
+            //FlipCoin flip = new FlipCoin();
+            //flip.Flip_coin();
+
+            LeapYear leap = new LeapYear();
+            leap.Leap_Year();
 
 
         }
