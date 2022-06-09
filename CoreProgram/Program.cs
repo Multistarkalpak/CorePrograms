@@ -29,8 +29,11 @@ namespace CoreProgram
             //Swap swp = new Swap();
             //swp.swap();
 
-            EvenOdd EO = new EvenOdd();
-            EO.evenodd();
+            //EvenOdd EO = new EvenOdd();
+            //EO.evenodd();
+
+            VowelConsonants chr = new VowelConsonants();
+            chr.checkVowel();
         }
     }
 }
