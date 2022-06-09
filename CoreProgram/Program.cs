@@ -23,8 +23,11 @@ namespace CoreProgram
             //Factors fac = new Factors();
             //fac.factors();
 
-            QuotientRemainder qr = new QuotientRemainder();
-            qr.Quotient_Remainder();
+            //QuotientRemainder qr = new QuotientRemainder();
+            //qr.Quotient_Remainder();
+
+            Swap swp = new Swap();
+            swp.swap();
         }
     }
 }
