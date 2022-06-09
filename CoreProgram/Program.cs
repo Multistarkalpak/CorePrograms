@@ -14,8 +14,11 @@ namespace CoreProgram
             //LeapYear leap = new LeapYear();
             //leap.Leap_Year();
 
-            Power2 power = new Power2();
-            power.Power_of_two();
+            //Power2 power = new Power2();
+            //power.Power_of_two();
+
+            Harmonic harmonic = new Harmonic();
+            harmonic.Harmonics();
         }
     }
 }
