@@ -17,8 +17,11 @@ namespace CoreProgram
             //Power2 power = new Power2();
             //power.Power_of_two();
 
-            Harmonic harmonic = new Harmonic();
-            harmonic.Harmonics();
+            //Harmonic harmonic = new Harmonic();
+            //harmonic.Harmonics();
+
+            Factors fac = new Factors();
+            fac.factors();
         }
     }
 }
