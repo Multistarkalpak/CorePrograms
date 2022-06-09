@@ -10,8 +10,11 @@ namespace CoreProgram
     {
         public void Quotient_Remainder()
         {
+            Console.WriteLine("Enter the dividend:");
+            int dividend = Convert.ToInt32(Console.ReadLine());
 
-            int dividend = 50, divisor = 8;
+            Console.WriteLine("Enter the divisor:");
+            int divisor = Convert.ToInt32(Console.ReadLine());
 
             int quotient = dividend / divisor;
             int remainder = dividend % divisor;
