@@ -32,8 +32,11 @@ namespace CoreProgram
             //EvenOdd EO = new EvenOdd();
             //EO.evenodd();
 
-            VowelConsonants chr = new VowelConsonants();
-            chr.checkVowel();
+            //VowelConsonants chr = new VowelConsonants();
+            //chr.checkVowel();
+
+            LargestIn3 max = new LargestIn3();
+            max.largest();
         }
     }
 }
