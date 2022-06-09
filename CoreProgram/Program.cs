@@ -26,8 +26,11 @@ namespace CoreProgram
             //QuotientRemainder qr = new QuotientRemainder();
             //qr.Quotient_Remainder();
 
-            Swap swp = new Swap();
-            swp.swap();
+            //Swap swp = new Swap();
+            //swp.swap();
+
+            EvenOdd EO = new EvenOdd();
+            EO.evenodd();
         }
     }
 }
